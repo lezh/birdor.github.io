@@ -355,7 +355,7 @@ nav #nav-c ul#nav-list li#home a {
 	overflow:hidden;
 	display:block;
 	position:relative;
-	background: url("../img/avatar.jpg");
+	background: url("../img/cat.jpg");
 	padding:0;
 	background-size: 100% 100%;
 	border-radius: 50%;  
@@ -1167,7 +1167,7 @@ textarea.styletext:focus {
 .full-avatar {
 	width:100px;
 	height:100px;
-	background:url("../img/avatar.png");
+	background:url("../img/cat.png");
 	padding:6px;
 	text-align:center;
 	line-height:100px;

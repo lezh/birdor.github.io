@@ -21,7 +21,7 @@ author :
 #
 contact :
   Email : mailto:zbirdor@gmail.com
-  Github : https://github.com/birdor
+  GitHub : https://github.com/birdor
   LinkedIn : http://www.linkedin.com/profile/view?id=293758403
   facebook : https://www.facebook.com/zhuangle91
   Zhihu : http://www.zhihu.com/people/birdor
@@ -108,7 +108,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo :
       short_name : birdor
     disqus :
