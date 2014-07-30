@@ -1,6 +1,7 @@
 
 http://birdor.github.io/404.html
 http://birdor.github.io/about.html
+http://birdor.github.io/aboutyou.html
 http://birdor.github.io/archive.html
 http://birdor.github.io/atom.xml
 http://birdor.github.io/categories.html
@@ -10,6 +11,8 @@ http://birdor.github.io/search.html
 http://birdor.github.io/sitemap.txt
 http://birdor.github.io/tags.html
 
+http://birdor.github.io/%E6%97%85%E8%A1%8C/2014/07/%E6%97%85%E8%A1%8C%E5%BF%AB%E4%B9%90
+http://birdor.github.io/core-samples/sample/2014/07/hello-world
 http://birdor.github.io/vocore/2014/07/get_vocore
 http://birdor.github.io/daily/2014/07/pagination_on_jekyll
 http://birdor.github.io/daily/2014/04/win8_1_open_directory_problem
@@ -19,4 +22,4 @@ http://birdor.github.io/linux/2014/04/sk_buff_analysis
 http://birdor.github.io/linux/2014/04/qf9700_for_linux_3.0.8
 http://birdor.github.io/embedded/2014/04/marvel_88w8686_wifi_linux_driver_analysis
 http://birdor.github.io/android/2012/11/c_on_android
-http://birdor.github.io/core-samples/lessons/2011/12/jekyll-introduction
+http://birdor.github.io/lessons/2011/12/jekyll-introduction

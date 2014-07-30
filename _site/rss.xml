@@ -5,10 +5,29 @@
         <description>鸟兰 - Le Oliver Zhuang</description>
         <link>http://birdor.github.io</link>
         <link>http://birdor.github.io</link>
-        <lastBuildDate>2014-07-30T14:47:36+08:00</lastBuildDate>
-        <pubDate>2014-07-30T14:47:36+08:00</pubDate>
+        <lastBuildDate>2014-07-30T16:37:00+08:00</lastBuildDate>
+        <pubDate>2014-07-30T16:37:00+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>看那快乐的旅程</title>
+                <description>&lt;p&gt;还记得许多年头的春天，那时的我还没剪去长发，没有信用卡也有没有空，没有 24 小时热水的家。可是当时的我是那么快乐，只有一把破土吉他……&lt;/p&gt;
+
+</description>
+                <link>http://birdor.github.io/%E6%97%85%E8%A1%8C/2014/07/%E6%97%85%E8%A1%8C%E5%BF%AB%E4%B9%90</link>
+                <guid>http://birdor.github.io/%E6%97%85%E8%A1%8C/2014/07/旅行快乐</guid>
+                <pubDate>2014-07-30T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>hello world.</title>
+                <description>
+</description>
+                <link>http://birdor.github.io/core-samples/sample/2014/07/hello-world</link>
+                <guid>http://birdor.github.io/core-samples/sample/2014/07/hello-world</guid>
+                <pubDate>2014-07-30T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>入手VoCore</title>
@@ -1168,8 +1187,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at []()
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://birdor.github.io/core-samples/lessons/2011/12/jekyll-introduction</link>
-                <guid>http://birdor.github.io/core-samples/lessons/2011/12/jekyll-introduction</guid>
+                <link>http://birdor.github.io/lessons/2011/12/jekyll-introduction</link>
+                <guid>http://birdor.github.io/lessons/2011/12/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+08:00</pubDate>
         </item>
 

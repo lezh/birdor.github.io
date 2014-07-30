@@ -4,13 +4,32 @@
  <title>鸟兰</title>
  <link href="http://birdor.github.io/" rel="self"/>
  <link href="http://birdor.github.io"/>
- <updated>2014-07-30T14:47:36+08:00</updated>
+ <updated>2014-07-30T16:37:00+08:00</updated>
  <id>http://birdor.github.io</id>
  <author>
    <name>Le Oliver Zhuang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>看那快乐的旅程</title>
+   <link href="http://birdor.github.io/%E6%97%85%E8%A1%8C/2014/07/%E6%97%85%E8%A1%8C%E5%BF%AB%E4%B9%90"/>
+   <updated>2014-07-30T00:00:00+08:00</updated>
+   <id>http://birdor.github.io/%E6%97%85%E8%A1%8C/2014/07/旅行快乐</id>
+   <content type="html">&lt;p&gt;还记得许多年头的春天，那时的我还没剪去长发，没有信用卡也有没有空，没有 24 小时热水的家。可是当时的我是那么快乐，只有一把破土吉他……&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>hello world.</title>
+   <link href="http://birdor.github.io/core-samples/sample/2014/07/hello-world"/>
+   <updated>2014-07-30T00:00:00+08:00</updated>
+   <id>http://birdor.github.io/core-samples/sample/2014/07/hello-world</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>入手VoCore</title>
@@ -754,9 +773,9 @@ g++ a.cpp   //编译
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://birdor.github.io/core-samples/lessons/2011/12/jekyll-introduction"/>
+   <link href="http://birdor.github.io/lessons/2011/12/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+08:00</updated>
-   <id>http://birdor.github.io/core-samples/lessons/2011/12/jekyll-introduction</id>
+   <id>http://birdor.github.io/lessons/2011/12/jekyll-introduction</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
