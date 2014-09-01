@@ -1,13 +1,13 @@
 
-http://birdor.github.io/404.html
-http://birdor.github.io/about.html
-http://birdor.github.io/archive.html
-http://birdor.github.io/atom.xml
-http://birdor.github.io/categories.html
-http://birdor.github.io/index.html
-http://birdor.github.io/rss.xml
-http://birdor.github.io/search.html
-http://birdor.github.io/sitemap.txt
-http://birdor.github.io/tags.html
+http://zhuangle.info/404.html
+http://zhuangle.info/about.html
+http://zhuangle.info/archive.html
+http://zhuangle.info/atom.xml
+http://zhuangle.info/categories.html
+http://zhuangle.info/index.html
+http://zhuangle.info/rss.xml
+http://zhuangle.info/search.html
+http://zhuangle.info/sitemap.txt
+http://zhuangle.info/tags.html
 
-http://birdor.github.io/%E7%94%9F%E6%B4%BB/2014/09/Hello-World
+http://zhuangle.info/%E7%94%9F%E6%B4%BB/2014/09/%E4%BD%A0%E5%A5%BD%E6%96%B0%E4%B8%96%E7%95%8C

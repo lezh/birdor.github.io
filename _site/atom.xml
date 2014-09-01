@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>庄乐学代码</title>
- <link href="http://birdor.github.io/" rel="self"/>
- <link href="http://birdor.github.io"/>
- <updated>2014-09-01T14:20:41-07:00</updated>
- <id>http://birdor.github.io</id>
+ <link href="http://zhuangle.info/" rel="self"/>
+ <link href="http://zhuangle.info"/>
+ <updated>2014-09-01T16:50:01-07:00</updated>
+ <id>http://zhuangle.info</id>
  <author>
    <name>庄乐</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>你好新世界</title>
-   <link href="http://birdor.github.io/%E7%94%9F%E6%B4%BB/2014/09/Hello-World"/>
+   <link href="http://zhuangle.info/%E7%94%9F%E6%B4%BB/2014/09/%E4%BD%A0%E5%A5%BD%E6%96%B0%E4%B8%96%E7%95%8C"/>
    <updated>2014-09-01T00:00:00-07:00</updated>
-   <id>http://birdor.github.io/%E7%94%9F%E6%B4%BB/2014/09/Hello-World</id>
+   <id>http://zhuangle.info/%E7%94%9F%E6%B4%BB/2014/09/你好新世界</id>
    <content type="html">&lt;p&gt;这是庄乐的第一篇网络日志。你好，新世界！&lt;/p&gt;
 
 &lt;p&gt;“Hello World” 是码农间的一个术语。当码农们搭建好一个新的平台，他们会写一个小程序向世界打个招呼：你好，世界。
