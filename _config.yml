@@ -9,13 +9,13 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  鸟兰
-tagline: 庄乐的旅程
+title :  庄乐学代码
+tagline: 一苇所如，万顷茫然
 
 # Information about author
 #
 author :
-  name : Le Oliver Zhuang
+  name : 庄乐
   
 # Information for contacts
 #
